@@ -1,0 +1,1 @@
+./Debug/main.c.o ./Debug/discount.c.o ./Debug/test.c.o
